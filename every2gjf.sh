@@ -2,7 +2,7 @@
 
 # Version 1.0
 # By Yidongxu
-# 支持out,chk，fchk,mol,mol2,cif
+# 支持out,chk，fchk,mol,mol2,cif转为guassian输入文件
 
 icc=0
 nfile=$(ls -1 *.out *.chk *.fchk *.mol *.mol2 *.cif 2>/dev/null | wc -l)
