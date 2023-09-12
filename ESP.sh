@@ -79,4 +79,4 @@ for dir in "$current_dir"/*/; do
 done
 echo "恭喜您!所有计算和导出完毕,OK"
 # 运行完成之后会发邮件给你，修改自己邮箱，-s '邮件主题' 最前面前述是内容
-echo "all gaussian run over" | mail -s 'gaussian2 EPS over' yidongxu125@163.com
+echo "all gaussian run over" | mail -s 'gaussian2 EPS over' XX@163.com
